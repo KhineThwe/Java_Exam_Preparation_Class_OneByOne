@@ -1,4 +1,4 @@
-public class Main {
+public class WhileDecrease {
     public static void main(String[] args) {
         int i = 10;
         while (i > 0) {

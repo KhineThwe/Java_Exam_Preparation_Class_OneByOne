@@ -1,4 +1,4 @@
-public class Main {
+public class WhileFactorial {
     public static void main(String[] args) {
         int num = 5, fact = 1;
         while (num > 0) {

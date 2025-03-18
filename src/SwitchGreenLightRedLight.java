@@ -1,4 +1,4 @@
-public class Main {
+public class SwitchGreenLightRedLight {
     public static void main(String[] args) {
         String color = "Red";
         switch (color) {

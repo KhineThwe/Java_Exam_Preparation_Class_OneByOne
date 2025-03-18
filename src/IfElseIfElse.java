@@ -1,4 +1,4 @@
-public class Main {
+public class IfElseIfElse {
     public static void main(String[] args) {
         int marks = 75;
         if (marks >= 80) {
